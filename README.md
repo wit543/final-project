@@ -4,7 +4,7 @@
 ## Table of contents
 - [description](#description)
 - [timeline](#timeline)
-- [team member](#team-member)
+- [team member](#team-members)
 
 
 ## Description
@@ -12,6 +12,7 @@
   
   
 ## Timeline
+ 
  
 
 ## Team members
