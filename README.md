@@ -2,17 +2,20 @@
 
  :car:Self driving car:car:
 ## Table of contents
+
 - [description](#description)
 - [timeline](#timeline)
-- [team member](#team-members)
 - [resource](#resource)
+- [team member](#team-members)
 
 
 ## Description
+
   An automated self driving car. The project will use miniature cars to simulate the car in real world. This will help explain the use training model in real life. 
   
   
 ## Timeline
+
  - [ ] phase 1: control the car via computer
  - [ ] phase 2: detect traffic light and road sign then react to the sign
  - [ ] phase 3: able to drive on it own 
@@ -26,6 +29,10 @@
  
 ## Resource
 
+- Raspberry Pi
+ - camera
+  - [Python doc](https://www.raspberrypi.org/documentation/usage/camera/python/README.md)
+  
 ## Team members
 
 - [@Kundjanasith](https://github.com/Kundjanasith)
