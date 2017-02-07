@@ -61,6 +61,9 @@ Self driving car
    
 Training Data
 - [ImageNet](http://www.image-net.org)
+
+Awesome
+- [ALL](https://github.com/sindresorhus/awesome)
   
 ## Team members
 
