@@ -41,19 +41,21 @@ Benefit of self-driving car :
  
 ## Resource
 
-- Raspberry Pi
- - camera
-  - [Python doc](https://www.raspberrypi.org/documentation/usage/camera/python/README.md)
-- Self driving car
- - Blog
-  - [Zheng Wang](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/)
-   - Base on image processing 
- - Github
-  - [Zheng Wang](https://github.com/hamuchiwa/AutoRCCar)
-  - []()
- - Youtube
-  - [Zheng Wang](https://www.youtube.com/watch?v=BBwEF6WBUQs)
-  
+Raspberry Pi
+- Camera
+ - [Python doc](https://www.raspberrypi.org/documentation/usage/camera/python/README.md)
+
+Self driving car
+
+- Blog
+ - [Zheng Wang](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/)<br>
+   Base on image processing 
+- Github
+ - [Zheng Wang](https://github.com/hamuchiwa/AutoRCCar)
+ - [Ryan Zotti](https://github.com/RyanZotti/Self-Driving-Car)
+- Youtube
+ - [Zheng Wang](https://www.youtube.com/watch?v=BBwEF6WBUQs)
+ - [Ryan Zotti | How to Build Your Own Self Driving Toy Car](https://www.youtube.com/watch?v=QbbOxrR0zdA)
   
 ## Team members
 
