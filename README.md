@@ -44,6 +44,16 @@ Benefit of self-driving car :
 - Raspberry Pi
  - camera
   - [Python doc](https://www.raspberrypi.org/documentation/usage/camera/python/README.md)
+- Self driving car
+ - Blog
+  - [Zheng Wang](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/)
+   - Base on image processing 
+ - Github
+  - [Zheng Wang](https://github.com/hamuchiwa/AutoRCCar)
+  - []()
+ - Youtube
+  - [Zheng Wang](https://www.youtube.com/watch?v=BBwEF6WBUQs)
+  
   
 ## Team members
 
