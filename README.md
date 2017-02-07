@@ -13,6 +13,18 @@
 
   An automated self driving car. The project will use miniature cars to simulate the car in real world. This will help explain the use training model in real life. 
   
+Benefit of self-driving car : 
+
+- Decreased (or Eliminated) Traffic Congestion
+- Increased Highway Capacity
+- Lower Fuel Consumption
+- Enhanced Human Productivity
+- Hunting For Parking Eliminated
+- Improved Mobility For Children, The Elderly, And The Disabled
+- Elimination of Traffic Enforcement Personnel
+- Higher Speed Limits
+- Lighter, More Versatile Cars
+
   
 ## Timeline
 
