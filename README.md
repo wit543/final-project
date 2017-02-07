@@ -62,7 +62,7 @@ Self driving car
    
 Training Data
 - [ImageNet](http://www.image-net.org)
-
+- [data](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 Awesome
 - [ALL](https://github.com/sindresorhus/awesome)
   
