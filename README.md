@@ -44,6 +44,7 @@ Benefit of self-driving car :
 Raspberry Pi
 - Camera
  - [Python doc](https://www.raspberrypi.org/documentation/usage/camera/python/README.md)
+ - [PiCamera Documentation - Advanced Recipes](https://picamera.readthedocs.io/en/release-1.10/recipes2.html)
 
 Self driving car
 
