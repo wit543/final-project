@@ -12,6 +12,17 @@
 - [target](#target)
 - [team member](#team-members)
 
+## Questions
+
+
+
+
+-|-
+Why people need to buy our product?
+Why make our product stand out?
+Moral problem?
+What wrong with the current product in the market?
+
 
 ## Team members
 
