@@ -23,7 +23,7 @@
 | Why make our product stand out? |
 | Moral problem? |
 | What wrong with the current product in the market? |
-| Why people need to buy our product? | 
+| Why people need to buy our product? | Monitoring a surveillance camera system is very time consuming, people may exhort from this kind of work, watching video for 8 hours a day and only faction of them contain an interesting event. By using computer to help monitor the surveillience system will reduce error rate and help increase the productivity of the organisation. Next step is using machine learning to step up the performance of the traditional system. |
 
 ## Feature
 - [Cross camera tracking](#cross-camera-tacking)
@@ -34,7 +34,7 @@
 
 ## Market
 	
- "Market research analyst predicts the global video surveillance market to grow steadily at a CAGR of over 22% during the forecast period."[ref][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020], video surveillance market is growing. The growth is due to a shift of customer buying IP camera instread of an analog. The growing demand of IP camera introduce a [VSaaS][VSaaS] (Video Surveillance as a Service) concept which provide a cloud base video surveilance. VSaaS only record when an interesting event occurred. The hotest market today is China which will account for 46% of total revenues[ref][Top Video Surveillance Trends for 2016]. With 66 million network cameras are expected to ship globally the race will be how smart the camera is, by using Deep Neural Network are quickly perform way better than traditional computer vision technique[ref][China’s Hikvision taps Movidius to bring better A.I. to smart cameras].
+ "Market research analyst predicts the global video surveillance market to grow steadily at a CAGR of over 22% during the forecast period."([ref][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020]), video surveillance market is growing. The growth is due to a shift of customer buying IP camera instread of an analog. The growing demand of IP camera introduce a [VSaaS][VSaaS] (Video Surveillance as a Service) concept which provide a cloud base video surveilance. VSaaS only record when an interesting event occurred. The hotest market today is China which will account for 46% of total revenues[ref][Top Video Surveillance Trends for 2016]. With 66 million network cameras are expected to ship globally the race will be how smart the camera is, by using Deep Neural Network are quickly perform way better than traditional computer vision technique([ref][China’s Hikvision taps Movidius to bring better A.I. to smart cameras]).
 
  [ref-1][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020]
 
