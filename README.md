@@ -34,9 +34,9 @@
 
 ## Market
 	
-	 "Market research analyst predicts the global video surveillance market to grow steadily at a CAGR of over 22% during the forecast period."[ref][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020], video surveillance market is growing. The growth is due to a shift of customer buying IP camera instread of an analog. The growing demand of IP camera introduce a [VSaaS][VSaaS] (Video Surveillance as a Service) concept which provide a cloud base video surveilance. VSaaS only record when an interesting event occurred. 
+ "Market research analyst predicts the global video surveillance market to grow steadily at a CAGR of over 22% during the forecast period."[ref][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020], video surveillance market is growing. The growth is due to a shift of customer buying IP camera instread of an analog. The growing demand of IP camera introduce a [VSaaS][VSaaS] (Video Surveillance as a Service) concept which provide a cloud base video surveilance. VSaaS only record when an interesting event occurred. 
 
-	 [ref-1][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020]
+ [ref-1][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020]
 
 ## Resource
 - [trend][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020]
