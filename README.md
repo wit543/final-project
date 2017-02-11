@@ -16,12 +16,12 @@
 
 
 
-|Question | Answer |
-|-|-|
-|Why make our product stand out? |
-|Moral problem? |
-|What wrong with the current product in the market? |
-|Why people need to buy our product?| 
+| Question | Answer |
+| :-: | :-: |
+| Why make our product stand out? |
+| Moral problem? |
+| What wrong with the current product in the market? |
+| Why people need to buy our product? | 
 
 ## Team members
 
