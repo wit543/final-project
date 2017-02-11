@@ -17,7 +17,7 @@
 
 ## Description
 	
-	Now a day, we live in high security socity. We are concerning about our safty so we use a camera surveillance system to help ensure our safty. The system would be useless if the only thing it can do is watching us so extracting useful information from the surveillance footage is very critical. In the past we use human to monitor the system, human are very good with spoting and useful event but human didn't suitable for this kind of work because it an parallel job with a 90%++ useless data. Introducing machine had help human to do batter in this field but traditional technique still lack of performance and accuracy. Using Deep Neural Network will help merge the grap between human and machine. A System that can detect an interesting event with and parallism for a high performance and acciracy.
+Now a day, we live in high security socity. We are concerning about our safty so we use a camera surveillance system to help ensure our safty. The system would be useless if the only thing it can do is watching us so extracting useful information from the surveillance footage is very critical. In the past we use human to monitor the system, human are very good with spoting and useful event but human didn't suitable for this kind of work because it an parallel job with a 90%++ useless data. Introducing machine had help human to do batter in this field but traditional technique still lack of performance and accuracy. Using Deep Neural Network will help merge the grap between human and machine. A System that can detect an interesting event with and parallism for a high performance and acciracy.
 
 ## Questions
 
