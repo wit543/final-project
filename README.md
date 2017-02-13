@@ -30,6 +30,7 @@ Now a day, we live in high security socity. We are concerning about our safty so
 
 
 ## Feature
+
 - [Cross camera tracking](#cross-camera-tacking)
 - [face/person detection](#face/person-detection)
 - [track object after missing](#tracking-object-after-missing-)
@@ -39,7 +40,7 @@ Now a day, we live in high security socity. We are concerning about our safty so
 
 ## Market
 	
- "Market research analyst predicts the global video surveillance market to grow steadily at a CAGR of over 22% during the forecast period."([ref][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020]), video surveillance market is growing. The growth is due to a shift of customer buying IP camera instread of an analog. The growing demand of IP camera introduce a [VSaaS][VSaaS] (Video Surveillance as a Service) concept which provide a cloud base video surveilance. VSaaS only record when an interesting event occurred. The hotest market today is China which will account for 46% of total revenues[ref][Top Video Surveillance Trends for 2016]. With 66 million network cameras are expected to ship globally the race will be how smart the camera is, by using Deep Neural Network are quickly perform way better than traditional computer vision technique([ref][China’s Hikvision taps Movidius to bring better A.I. to smart cameras]).
+ "Market research analyst predicts the global video surveillance market to grow steadily at a CAGR of over 22% during the forecast period."([ref][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020]), video surveillance market is growing. The growth is due to a shift of customer buying IP camera instead of an analog. The growing demand of IP camera introduces a [VSaaS][VSaaS] (Video Surveillance as a Service) concept which provides a cloud base video surveillance. VSaaS only record when an interesting event occurred. The hottest market today is China which will account for 46% of total revenues ([ref][Top Video Surveillance Trends for 2016]). With 66 million network cameras are expected to ship globally the race will be how smart the camera is, by using Deep Neural Network are quickly perform way better than traditional computer vision technique ([ref][China’s Hikvision taps Movidius to bring better A.I. to smart cameras]).
 
  [ref-1][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020]
 
@@ -51,6 +52,7 @@ Now a day, we live in high security socity. We are concerning about our safty so
 
 - [trend][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020]
 - [stereo-3D sensing(stereo-3D sensing)](https://www.stereolabs.com/)
+
 ## Team members
 
 - [@Kundjanasith](https://github.com/Kundjanasith)
