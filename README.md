@@ -27,6 +27,7 @@ Now a day, we live in high security socity. We are concerning about our safty so
 | What wrong with the current product in the market? |
 | Why people need to buy our product? | Monitoring a surveillance camera system is very time consuming, people may exhort from this kind of work, watching video for 8 hours a day and only faction of them contain an interesting event. By using computer to help monitor the surveillience system will reduce error rate and help increase the productivity of the organisation. Next step is using machine learning to step up the performance of the traditional system. |
 | Who will use our product|
+| Is today surveillance system already like in a movie | Nope, ([ref](http://www.itproportal.com/2015/10/20/facial-recognition-you-see-in-movies-can-only-be-seen-in-movies/))
 
 
 ## Feature
