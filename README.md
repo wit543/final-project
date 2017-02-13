@@ -52,12 +52,13 @@ Now a day, we live in high security socity. We are concerning about our safty so
  - [airport](https://www.videosurveillance.com/airports.asp)
 
  Security Monitor Salarie
-|Job Title|	Salary|
-|-|-|
-|University of California Berkeley Security Monitor - Hourly	| $10.30/hr |
-|University of Minnesota Security Monitor - Hourly	| $11.41/hr |
-|US Investigations Services Security Monitor - Hourly	| $19.32/hr |
-|Miami Dade Public Schools Security Monitor - Hourly	| $8.51/hr |
+
+| Job Title |	Salary|
+|:-:|:-:|
+| University of California Berkeley Security Monitor - Hourly	| $10.30/hr |
+| University of Minnesota Security Monitor - Hourly	| $11.41/hr |
+| US Investigations Services Security Monitor - Hourly	| $19.32/hr |
+| Miami Dade Public Schools Security Monitor - Hourly	| $8.51/hr |
 
 ## Target
 	
