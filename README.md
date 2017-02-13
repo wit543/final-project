@@ -9,7 +9,6 @@
 - [feature](#feature)
 - [market](#market)
 - [target](#target)
-
 - [resource](#resource)
 - [team member](#team-members)
 
