@@ -73,6 +73,8 @@ Now a day, we live in high security socity. We are concerning about our safty so
 
  [access](http://stackoverflow.com/questions/37694987/connecting-to-postgresql-in-a-docker-container-from-outside)
 
+## nginx
+ [tutorail](https://blog.docker.com/2015/04/tips-for-deploying-nginx-official-image-with-docker/)
 ## Team members
 
 - [@Kundjanasith](https://github.com/Kundjanasith)
