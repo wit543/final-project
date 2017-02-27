@@ -69,6 +69,10 @@ Now a day, we live in high security socity. We are concerning about our safty so
 - [trend][Global Video Surveillance Market Key Trends, Size, Growth, Shares And Forecast Research Report 2016-2020]
 - [stereo-3D sensing(stereo-3D sensing)](https://www.stereolabs.com/)
 
+## postgres
+
+ [access](http://stackoverflow.com/questions/37694987/connecting-to-postgresql-in-a-docker-container-from-outside)
+
 ## Team members
 
 - [@Kundjanasith](https://github.com/Kundjanasith)
